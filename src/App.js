@@ -13,7 +13,7 @@ import { Reciple } from "./pages/Reciple";
 function App() {
     return (
         <>
-            <Router>
+            <Router basename="/react-SPA">
                 <Header />
                 <main className="container content">
                     <Routes>
