@@ -33,7 +33,7 @@ function Header() {
                     <li>
                         <a
                             className="grey-text text-lighten-4 right"
-                            href="https://github.com/Pavel-Bagutski/react-shop-vitrine"
+                            href="https://github.com/Pavel-Bagutski/react-spa-app"
                             rel="noopener noreferrer"
                             target="_blank"
                         >

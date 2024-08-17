@@ -6,7 +6,7 @@ function Footer() {
                     © {new Date().getFullYear()} Copyright Text
                     <a
                         className="white-text text-lighten-4 right"
-                        href="https://github.com/Pavel-Bagutski/react-SPA"
+                        href="https://github.com/Pavel-Bagutski/react-spa-app"
                         rel="noopener noreferrer"
                         target="_blank"
                     >
